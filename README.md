@@ -36,20 +36,17 @@ The dataset contains:
 Three machine learning models were trained and tested:
 
 1. **Logistic Regression**
-   - Achieved **84.0% accuracy**.
    - A statistical model used for binary and multiclass classification tasks, estimating probabilities using a logistic function.
 
 2. **Naive Bayes**
-   - Achieved **85.93% accuracy**.
    - A probabilistic classifier based on Bayes' theorem, assuming independence between features.
 
 3. **Random Forest**
-   - Achieved **90.07% accuracy**.
    - An ensemble method that builds multiple decision trees and aggregates their predictions for improved accuracy and reduced overfitting.
 
 ### Results:
-- **Logistic Regression**: 84.0% accuracy.
-- **Naive Bayes**: 85.93% accuracy.
-- **Random Forest**: 90.07% accuracy.
+- **Logistic Regression**: 82.53% accuracy.
+- **Naive Bayes**: 82.93% accuracy.
+- **Random Forest**: 86.13% accuracy.
 
 Detailed analysis was performed using **precision**, **recall**, and **confusion matrices** to evaluate the performance of each model.
